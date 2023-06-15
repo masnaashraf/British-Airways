@@ -13,7 +13,9 @@ Customers who book a flight with BA will experience many interaction points with
 This first task is focused on scraping and collecting customer feedback and reviewing data from a third-party source and analysing this data to present any insights you may uncover.
 
 1.Applying webscraping in unstructured data taken from the https://www.airlinequality.com/airline-reviews/british-airways
+
 2.Analyze customer reviews using sentimental analysis to sort positive and negative reviews
+
 3.Preparing a powerpoint representation to highlight our insights and analysis
 
 
